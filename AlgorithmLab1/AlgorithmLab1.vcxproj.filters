@@ -15,8 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AlgorithmLab1.cpp">
+    <ClCompile Include="AlgorithmLab1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="task1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="task2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="task1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="task2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

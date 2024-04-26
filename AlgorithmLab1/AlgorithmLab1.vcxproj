@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AlgorithmLab1.cpp" />
+    <ClCompile Include="AlgorithmLab1.c" />
+    <ClCompile Include="task1.c" />
+    <ClCompile Include="task2.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="task1.h" />
+    <ClInclude Include="task2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
